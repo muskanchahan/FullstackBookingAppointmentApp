@@ -1,5 +1,24 @@
 {
   "dependencies": {
-    "express": "^4.19.2"
-  }
+    "cors": "^2.8.5",
+    "mysql2": "^3.11.0"
+  },
+  "name": "fullstackbookingappointmentapp",
+  "version": "1.0.0",
+  "description": "this is full stack booking appointment app",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muskanchahan/FullstackBookingAppointmentApp.git"
+  },
+  "author": "Muskan Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muskanchahan/FullstackBookingAppointmentApp/issues"
+  },
+  "homepage": "https://github.com/muskanchahan/FullstackBookingAppointmentApp#readme"
 }
